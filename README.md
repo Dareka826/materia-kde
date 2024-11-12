@@ -2,4 +2,4 @@
 
 # Materia KDE
 
-This is a fork of [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) with only the window decorations part.
+This is a fork of [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) with only the window decorations part. The shadow has been removed.
